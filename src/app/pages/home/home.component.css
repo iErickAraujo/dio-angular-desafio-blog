@@ -10,3 +10,13 @@ header {
   display: flex;
   justify-content: center;
 }
+
+.container-body-separator {
+  margin-top: 2rem;
+}
+
+footer {
+  margin-top: 1rem;
+  display: flex;
+  justify-content: center;
+}
