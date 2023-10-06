@@ -1,12 +1,17 @@
 <div class="container-small-card">
   <div class="container-small-card-content">
     <div class="small-card-photo">
-      <img src="{{ photoCover }}" alt="" srcset="" />
+      <img
+        [routerLink]="['content', id]"
+        src="{{ photoCover }}"
+        alt=""
+        srcset=""
+      />
     </div>
 
     <div class="small-card-title">
       <h1>
-        <a href="#">{{ cardTitle }}</a>
+        <a [routerLink]="['content', id]">{{ cardTitle }}</a>
       </h1>
     </div>
   </div>
