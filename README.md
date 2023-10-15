@@ -6,7 +6,7 @@ Repositório para armazenar o desafio de criar um Blog com base em um layout do 
 
 [Observações] - Projeto para fins de aprendizado.
 
-Possiveis atualizações em breve...
+Atualizações em breve...
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
 
