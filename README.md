@@ -1,5 +1,11 @@
 # AngularBlog
 
+Repositório para armazenar o desafio de criar um Blog com base em um layout do dribbble do curso de Angular da DIO.
+
+[Desafio Blog] - Projeto desenvolvido como parte do desafio de criar um Blog com base em um layout do dribbble utilizando parte (ou todo o) do conteúdo do curso de Angular. Componentizar e Modularizar um Layout.
+
+[Observações] - Projeto para fins de aprendizado.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
 
 ## Development server
